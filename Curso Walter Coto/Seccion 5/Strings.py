@@ -1,0 +1,3 @@
+mensaje = "hola"
+
+print(hola)
